@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="login2.MainPage"
+             BackgroundColor="Black">
+
+    <ContentPage.Background>
+        <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+            <GradientStop Color="#FF0000" Offset="0.0" />
+            <GradientStop Color="#000000" Offset="1.0" />
+        </LinearGradientBrush>
+    </ContentPage.Background>
+
+    <StackLayout Padding="30" Spacing="15" VerticalOptions="Center">
+        <!-- Logo o imagen decorativa -->
+        <Image Source="logo.png" HeightRequest="120" HorizontalOptions="Center" />
+
+        <Label Text="Bienvenido" 
+               FontSize="Large" 
+               TextColor="White" 
+               HorizontalOptions="Center" 
+               FontAttributes="Bold" />
+
+        <Label Text="Usuario" 
+               FontSize="Medium" 
+               TextColor="White" />
+        <Entry x:Name="entryUsername" 
+               Placeholder="Ingresa tu usuario" 
+               PlaceholderColor="#FF6666" 
+               TextColor="White" />
+
+        <Label Text="Contraseña" 
+               FontSize="Medium" 
+               TextColor="White" />
+        <Entry x:Name="entryPassword" 
+               Placeholder="Ingresa tu contraseña" 
+               PlaceholderColor="#FF6666" 
+               IsPassword="True" 
+               TextColor="White" />
+
+        <Button Text="Iniciar sesión" 
+                BackgroundColor="#FF0000" 
+                TextColor="White" 
+                CornerRadius="20" 
+                HeightRequest="50"
+                WidthRequest="200"
+                HorizontalOptions="Center" 
+                Clicked="Button_Clicked" />
+
+        <Button Text="Registrarte" 
+                BackgroundColor="Transparent" 
+                TextColor="#FF6666" 
+                FontAttributes="Italic"
+                HeightRequest="40"
+                WidthRequest="200"
+                HorizontalOptions="Center" 
+                Clicked="Button_Clicked_1" />
+
+    </StackLayout>
+</ContentPage>
