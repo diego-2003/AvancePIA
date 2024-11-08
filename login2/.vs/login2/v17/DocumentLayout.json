@@ -1,26 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\pedri\\Desktop\\Evidencia 2\\login2\\",
+  "WorkspaceRootPath": "C:\\Users\\DIEGO\\source\\repos\\Evidencia3-otra\\login2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{64A69DDB-D60D-4DF8-AF6C-01028CE66536}|login2\\login2.csproj|c:\\users\\pedri\\desktop\\evidencia 2\\login2\\login2\\paginaprincipal.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{64A69DDB-D60D-4DF8-AF6C-01028CE66536}|login2\\login2.csproj|solutionrelative:login2\\paginaprincipal.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{64A69DDB-D60D-4DF8-AF6C-01028CE66536}|login2\\login2.csproj|c:\\users\\diego\\source\\repos\\evidencia3-otra\\login2\\login2\\vistas\\menuresultado.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64A69DDB-D60D-4DF8-AF6C-01028CE66536}|login2\\login2.csproj|solutionrelative:login2\\vistas\\menuresultado.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{64A69DDB-D60D-4DF8-AF6C-01028CE66536}|login2\\login2.csproj|c:\\users\\pedri\\desktop\\evidencia 2\\login2\\login2\\paginaprincipal.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "AbsoluteMoniker": "D:0:0:{64A69DDB-D60D-4DF8-AF6C-01028CE66536}|login2\\login2.csproj|c:\\users\\diego\\source\\repos\\evidencia3-otra\\login2\\login2\\vistas\\menuresultado.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{64A69DDB-D60D-4DF8-AF6C-01028CE66536}|login2\\login2.csproj|solutionrelative:login2\\vistas\\menuresultado.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64A69DDB-D60D-4DF8-AF6C-01028CE66536}|login2\\login2.csproj|c:\\users\\diego\\source\\repos\\evidencia3-otra\\login2\\login2\\models\\champion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64A69DDB-D60D-4DF8-AF6C-01028CE66536}|login2\\login2.csproj|solutionrelative:login2\\models\\champion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64A69DDB-D60D-4DF8-AF6C-01028CE66536}|login2\\login2.csproj|c:\\users\\diego\\source\\repos\\evidencia3-otra\\login2\\login2\\paginaprincipal.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
       "RelativeMoniker": "D:0:0:{64A69DDB-D60D-4DF8-AF6C-01028CE66536}|login2\\login2.csproj|solutionrelative:login2\\paginaprincipal.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{64A69DDB-D60D-4DF8-AF6C-01028CE66536}|login2\\login2.csproj|c:\\users\\pedri\\desktop\\evidencia 2\\login2\\login2\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{64A69DDB-D60D-4DF8-AF6C-01028CE66536}|login2\\login2.csproj|solutionrelative:login2\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{64A69DDB-D60D-4DF8-AF6C-01028CE66536}|login2\\login2.csproj|c:\\users\\diego\\source\\repos\\evidencia3-otra\\login2\\login2\\services\\championservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64A69DDB-D60D-4DF8-AF6C-01028CE66536}|login2\\login2.csproj|solutionrelative:login2\\services\\championservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{64A69DDB-D60D-4DF8-AF6C-01028CE66536}|login2\\login2.csproj|c:\\users\\pedri\\desktop\\evidencia 2\\login2\\login2\\data\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{64A69DDB-D60D-4DF8-AF6C-01028CE66536}|login2\\login2.csproj|solutionrelative:login2\\data\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{64A69DDB-D60D-4DF8-AF6C-01028CE66536}|login2\\login2.csproj|c:\\users\\diego\\source\\repos\\evidencia3-otra\\login2\\login2\\data\\champdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64A69DDB-D60D-4DF8-AF6C-01028CE66536}|login2\\login2.csproj|solutionrelative:login2\\data\\champdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{64A69DDB-D60D-4DF8-AF6C-01028CE66536}|login2\\login2.csproj|c:\\users\\pedri\\desktop\\evidencia 2\\login2\\login2\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{64A69DDB-D60D-4DF8-AF6C-01028CE66536}|login2\\login2.csproj|solutionrelative:login2\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{64A69DDB-D60D-4DF8-AF6C-01028CE66536}|login2\\login2.csproj|c:\\users\\diego\\source\\repos\\evidencia3-otra\\login2\\login2\\services\\championjsonserializacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64A69DDB-D60D-4DF8-AF6C-01028CE66536}|login2\\login2.csproj|solutionrelative:login2\\services\\championjsonserializacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,73 +38,97 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "App.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\pedri\\Desktop\\Evidencia 2\\login2\\login2\\App.xaml.cs",
-              "RelativeDocumentMoniker": "login2\\App.xaml.cs",
-              "ToolTip": "C:\\Users\\pedri\\Desktop\\Evidencia 2\\login2\\login2\\App.xaml.cs",
-              "RelativeToolTip": "login2\\App.xaml.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-19T19:58:43.207Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\pedri\\Desktop\\Evidencia 2\\login2\\login2\\Models\\User.cs",
-              "RelativeDocumentMoniker": "login2\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\pedri\\Desktop\\Evidencia 2\\login2\\login2\\Models\\User.cs",
-              "RelativeToolTip": "login2\\Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T01:17:29.312Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Database.cs",
-              "DocumentMoniker": "C:\\Users\\pedri\\Desktop\\Evidencia 2\\login2\\login2\\Data\\Database.cs",
-              "RelativeDocumentMoniker": "login2\\Data\\Database.cs",
-              "ToolTip": "C:\\Users\\pedri\\Desktop\\Evidencia 2\\login2\\login2\\Data\\Database.cs",
-              "RelativeToolTip": "login2\\Data\\Database.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T01:21:44.999Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "PaginaPrincipal.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\pedri\\Desktop\\Evidencia 2\\login2\\login2\\PaginaPrincipal.xaml.cs",
-              "RelativeDocumentMoniker": "login2\\PaginaPrincipal.xaml.cs",
-              "ToolTip": "C:\\Users\\pedri\\Desktop\\Evidencia 2\\login2\\login2\\PaginaPrincipal.xaml.cs",
-              "RelativeToolTip": "login2\\PaginaPrincipal.xaml.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAwwDYAAAABAAAAAAAAAA==",
+              "Title": "MenuResultado.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\DIEGO\\source\\repos\\Evidencia3-otra\\login2\\login2\\Vistas\\MenuResultado.xaml.cs",
+              "RelativeDocumentMoniker": "login2\\Vistas\\MenuResultado.xaml.cs",
+              "ToolTip": "C:\\Users\\DIEGO\\source\\repos\\Evidencia3-otra\\login2\\login2\\Vistas\\MenuResultado.xaml.cs",
+              "RelativeToolTip": "login2\\Vistas\\MenuResultado.xaml.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-19T19:56:04.239Z",
+              "WhenOpened": "2024-11-08T22:05:54.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Champion.cs",
+              "DocumentMoniker": "C:\\Users\\DIEGO\\source\\repos\\Evidencia3-otra\\login2\\login2\\Models\\Champion.cs",
+              "RelativeDocumentMoniker": "login2\\Models\\Champion.cs",
+              "ToolTip": "C:\\Users\\DIEGO\\source\\repos\\Evidencia3-otra\\login2\\login2\\Models\\Champion.cs",
+              "RelativeToolTip": "login2\\Models\\Champion.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABQAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T21:05:23.522Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "MenuResultado.xaml",
+              "DocumentMoniker": "C:\\Users\\DIEGO\\source\\repos\\Evidencia3-otra\\login2\\login2\\Vistas\\MenuResultado.xaml",
+              "RelativeDocumentMoniker": "login2\\Vistas\\MenuResultado.xaml",
+              "ToolTip": "C:\\Users\\DIEGO\\source\\repos\\Evidencia3-otra\\login2\\login2\\Vistas\\MenuResultado.xaml",
+              "RelativeToolTip": "login2\\Vistas\\MenuResultado.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-08T22:05:48.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "PaginaPrincipal.xaml",
-              "DocumentMoniker": "C:\\Users\\pedri\\Desktop\\Evidencia 2\\login2\\login2\\PaginaPrincipal.xaml",
+              "DocumentMoniker": "C:\\Users\\DIEGO\\source\\repos\\Evidencia3-otra\\login2\\login2\\PaginaPrincipal.xaml",
               "RelativeDocumentMoniker": "login2\\PaginaPrincipal.xaml",
-              "ToolTip": "C:\\Users\\pedri\\Desktop\\Evidencia 2\\login2\\login2\\PaginaPrincipal.xaml",
+              "ToolTip": "C:\\Users\\DIEGO\\source\\repos\\Evidencia3-otra\\login2\\login2\\PaginaPrincipal.xaml",
               "RelativeToolTip": "login2\\PaginaPrincipal.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-19T19:54:51.182Z",
+              "WhenOpened": "2024-11-08T21:56:53.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ChampDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\DIEGO\\source\\repos\\Evidencia3-otra\\login2\\login2\\Data\\ChampDatabase.cs",
+              "RelativeDocumentMoniker": "login2\\Data\\ChampDatabase.cs",
+              "ToolTip": "C:\\Users\\DIEGO\\source\\repos\\Evidencia3-otra\\login2\\login2\\Data\\ChampDatabase.cs",
+              "RelativeToolTip": "login2\\Data\\ChampDatabase.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T21:16:13.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ChampionJsonSerializacion.cs",
+              "DocumentMoniker": "C:\\Users\\DIEGO\\source\\repos\\Evidencia3-otra\\login2\\login2\\Services\\ChampionJsonSerializacion.cs",
+              "RelativeDocumentMoniker": "login2\\Services\\ChampionJsonSerializacion.cs",
+              "ToolTip": "C:\\Users\\DIEGO\\source\\repos\\Evidencia3-otra\\login2\\login2\\Services\\ChampionJsonSerializacion.cs",
+              "RelativeToolTip": "login2\\Services\\ChampionJsonSerializacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T21:10:45.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChampionService.cs",
+              "DocumentMoniker": "C:\\Users\\DIEGO\\Source\\Repos\\Evidencia3-otra\\login2\\login2\\Services\\ChampionService.cs",
+              "RelativeDocumentMoniker": "login2\\Services\\ChampionService.cs",
+              "ToolTip": "C:\\Users\\DIEGO\\Source\\Repos\\Evidencia3-otra\\login2\\login2\\Services\\ChampionService.cs",
+              "RelativeToolTip": "login2\\Services\\ChampionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T20:56:59.374Z",
               "EditorCaption": ""
             }
           ]

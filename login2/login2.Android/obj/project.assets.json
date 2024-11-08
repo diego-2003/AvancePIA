@@ -2,6 +2,19 @@
   "version": 3,
   "targets": {
     "MonoAndroid,Version=v13.0": {
+      "Newtonsoft.Json/13.0.3": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "sqlite-net-pcl/1.9.172": {
         "type": "package",
         "dependencies": {
@@ -1905,6 +1918,7 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
+          "Newtonsoft.Json": "13.0.3",
           "Xamarin.Essentials": "1.7.0",
           "Xamarin.Forms": "5.0.0.2196",
           "sqlite-net-pcl": "1.9.172"
@@ -1919,6 +1933,36 @@
     }
   },
   "libraries": {
+    "Newtonsoft.Json/13.0.3": {
+      "sha512": "HrC5BXdl00IP9zeV+0Z848QWPAoCr9P3bDEZguI+gkLcBKAOxix/tLEAAHC+UvDNPv4a2d18lOReHMOagPa+zQ==",
+      "type": "package",
+      "path": "newtonsoft.json/13.0.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.md",
+        "README.md",
+        "lib/net20/Newtonsoft.Json.dll",
+        "lib/net20/Newtonsoft.Json.xml",
+        "lib/net35/Newtonsoft.Json.dll",
+        "lib/net35/Newtonsoft.Json.xml",
+        "lib/net40/Newtonsoft.Json.dll",
+        "lib/net40/Newtonsoft.Json.xml",
+        "lib/net45/Newtonsoft.Json.dll",
+        "lib/net45/Newtonsoft.Json.xml",
+        "lib/net6.0/Newtonsoft.Json.dll",
+        "lib/net6.0/Newtonsoft.Json.xml",
+        "lib/netstandard1.0/Newtonsoft.Json.dll",
+        "lib/netstandard1.0/Newtonsoft.Json.xml",
+        "lib/netstandard1.3/Newtonsoft.Json.dll",
+        "lib/netstandard1.3/Newtonsoft.Json.xml",
+        "lib/netstandard2.0/Newtonsoft.Json.dll",
+        "lib/netstandard2.0/Newtonsoft.Json.xml",
+        "newtonsoft.json.13.0.3.nupkg.sha512",
+        "newtonsoft.json.nuspec",
+        "packageIcon.png"
+      ]
+    },
     "sqlite-net-pcl/1.9.172": {
       "sha512": "go533+huyvg5bOMmCpX+DyvLrcVRiEBIpqEiDHgXRijWIBBNkWnyMr/w+5ZzrUArKY+4ApucsbBnFtP3QITrJg==",
       "type": "package",
@@ -3682,24 +3726,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\pedri\\.nuget\\packages\\": {},
+    "C:\\Users\\DIEGO\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pedri\\Desktop\\Evidencia 2\\login2\\login2.Android\\login2.Android.csproj",
+      "projectUniqueName": "C:\\Users\\DIEGO\\Source\\Repos\\Evidencia3-otra\\login2\\login2.Android\\login2.Android.csproj",
       "projectName": "login2.Android",
-      "projectPath": "C:\\Users\\pedri\\Desktop\\Evidencia 2\\login2\\login2.Android\\login2.Android.csproj",
-      "packagesPath": "C:\\Users\\pedri\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pedri\\Desktop\\Evidencia 2\\login2\\login2.Android\\obj\\",
+      "projectPath": "C:\\Users\\DIEGO\\Source\\Repos\\Evidencia3-otra\\login2\\login2.Android\\login2.Android.csproj",
+      "packagesPath": "C:\\Users\\DIEGO\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\DIEGO\\Source\\Repos\\Evidencia3-otra\\login2\\login2.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\pedri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\DIEGO\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -3713,8 +3757,8 @@
       "frameworks": {
         "monoandroid13.0": {
           "projectReferences": {
-            "C:\\Users\\pedri\\Desktop\\Evidencia 2\\login2\\login2\\login2.csproj": {
-              "projectPath": "C:\\Users\\pedri\\Desktop\\Evidencia 2\\login2\\login2\\login2.csproj"
+            "C:\\Users\\DIEGO\\Source\\Repos\\Evidencia3-otra\\login2\\login2\\login2.csproj": {
+              "projectPath": "C:\\Users\\DIEGO\\Source\\Repos\\Evidencia3-otra\\login2\\login2\\login2.csproj"
             }
           }
         }

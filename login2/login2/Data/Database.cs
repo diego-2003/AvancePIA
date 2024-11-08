@@ -28,5 +28,7 @@ namespace login2.Data
         {
             return _database.InsertAsync(user);
         }
+
+
     }
 }

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="login2.Vistas.MenuResultado">
+    <StackLayout Padding="20" Spacing="15">
+
+        <!--Botón para seleccionar un personaje-->
+        <Button Text="Seleccionar personaje aleatorio" 
+                FontSize="Large"
+                Clicked="OnSelectRandomChampion" />
+
+        <!-- Seccion que muestra el nombre, título y lore del personaje seleccionado-->
+        <Label x:Name="championLabel" 
+               Text="Aquí se mostrará el personaje seleccionado" 
+               FontSize="Medium" 
+               TextColor="Black"
+               HorizontalOptions="Center"
+               VerticalOptions="CenterAndExpand"
+               LineBreakMode="WordWrap" />
+
+    </StackLayout>
+</ContentPage>
